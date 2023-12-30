@@ -1,5 +1,5 @@
 
-# 30 Days 30 Projects
+# 30-Days-Of-FrontEnd-Coding
 ```# Project Count  32```
 
 * # Day 1
